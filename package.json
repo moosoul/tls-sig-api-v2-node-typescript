@@ -2,6 +2,7 @@
   "name": "tls-sig-api-v2-typescript",
   "version": "1.0.3",
   "main": "./dist/TLSSigAPIv2.js",
+  "types": "./dist/TLSSigAPIv2.d.ts",
   "author": "moosoul<m.mosoul@gmail.com>",
   "license": "MIT",
   "repository": {
